@@ -1,10 +1,5 @@
-# Welcome!
 
- 
-
-## I'm Victor Grava!
-
- 
+## Hello! I'm Victor Grava!
 
 :computer: I'm Front-End Developer!
 
@@ -22,8 +17,8 @@
 ## Language and Tools
 <div>
   <a href="https://github.com/gravavictor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gravavictor&show_icons=true&theme=chartreuse-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravavictor&layout=compact&theme=chartreuse-dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=gravavictor&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravavictor&layout=compact&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
