@@ -37,5 +37,5 @@ I am a Software Specialist based in Brazil with extensive experience in building
 
 ### 📫 Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/victor-grava-leal-108376104) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/victor-grava-leal) 
 [![Email Badge](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
