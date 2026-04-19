@@ -1,10 +1,12 @@
-# Hi there, I'm Victor Grava! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:3498db&height=200&section=header&text=VICTOR%20GRAVA&fontSize=70&animation=fadeIn" width="100%" />
+</p>
 
-### 👨‍💻 Software Specialist | Front-End Architect | React & TypeScript Expert
-
-I am a Software Specialist based in Brazil with extensive experience in building robust, scalable web applications. My focus is on creating high-performance user interfaces and architecting clean, maintainable codebases using the React ecosystem.
+### 🛰️ Software Specialist | Front-End Architect | Integration Expert
+**Brazil 🇧🇷 • React • TypeScript • AI Workflows • Automation**
 
 ---
+
 ### 🛠️ Tech Stack & Expertise
 
 | Focus Area | Technologies |
